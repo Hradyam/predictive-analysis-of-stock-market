@@ -114,12 +114,6 @@ Contributions welcome! To contribute:
 
 ---
 
-## License
-
-*(Add license information here—e.g., MIT, Apache 2.0, or others.)*
-
----
-
 ## Contact
 
 - **Author**: Hradyam  
