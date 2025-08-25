@@ -29,7 +29,7 @@ predictive-analysis-of-stock-market/
 ```bash
 git clone https://github.com/Hradyam/predictive-analysis-of-stock-market.git
 cd predictive-analysis-of-stock-market
-install libraries manually
+#install libraries manually
 ```
 
 ---
